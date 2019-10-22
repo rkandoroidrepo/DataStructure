@@ -1,0 +1,25 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ï·üÿÿÿÿ8ĞñòìŞ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Äâşÿÿÿÿ8æ×ùìŞ-
+Xsquid:S2209"5Change this instance-reference to a static reference.(›¶¢ëúÿÿÿÿ8È×ëìŞ-
+;squid:S1118
+"Hide this public constructor.(Şÿí8È×ëìŞ-
+Xsquid:S2209"5Change this instance-reference to a static reference.(ºû½òøÿÿÿÿ8‹ ëìŞ-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(÷ı–À8ÄºŠíŞ-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ö­ÑÑ8‰™’íŞ-
+Esquid:S3010""Remove this assignment of "front".(ºû½òøÿÿÿÿ8‹ ëìŞ-
+9squid:S3626"Remove this redundant jump.(ûÁİ…8ÚøìŞ-
+Csquid:S34578"%String contains no format specifiers.(Ë¦´8À¸ íŞ-
+Ssquid:S2209"5Change this instance-reference to a static reference.(–ÑøŠ8¹¤îìŞ-
+Csquid:S3010"%Remove this assignment of "capacity".(–ÑøŠ8¹¤îìŞ-
+?squid:S3010"!Remove this assignment of "rear".(´¯‚°8È×ëìŞ-
+Esquid:S3010""Remove this assignment of "array".(›¶¢ëúÿÿÿÿ8È×ëìŞ-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ë¦´8À¸ íŞ-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(­íê8À¸ íŞ-
+Ssquid:S2209"5Change this instance-reference to a static reference.(´¯‚°8È×ëìŞ-
